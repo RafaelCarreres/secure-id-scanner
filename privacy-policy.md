@@ -1,6 +1,6 @@
 ---
-layout: pages 
-title: Privacy Policy
+layout: default
+title: Privacy Policy - Secure ID Scanner
 permalink: /privacy-policy/
 ---
 
