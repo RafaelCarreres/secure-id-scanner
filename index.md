@@ -50,7 +50,7 @@ Open an issue with the label `feature-request` or contact us by email.
 
 ---
 
-**Privacy Policy:** [Link to privacy policy]  
+**Privacy Policy:** [https://github.com/RafaelCarreres/secure-id-scanner/blob/main/privacy-policy.md]  
 **App Store:** [Link to App Store listing]
 
 Your documents. Your device. Your privacy.
