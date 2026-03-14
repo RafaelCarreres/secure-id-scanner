@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Privacy Policy - Secure ID Scanner
-permalink: /privacy-policy/
+permalink: /privacy/
 ---
 
 # Privacy Policy for Secure ID Scanner
