@@ -5,7 +5,7 @@ This app processes everything locally on your device—no data is uploaded or st
 
 For questions, bug reports, feedback, or support:  
 - Email: illustrious.planetplus@gmail.com  
-- Or open an issue here: https://github.com/tuusuario/secure-id-scanner/issues
+- Or open an issue here: https://github.com/RafaelCarreres/secure-id-scanner/issues
 
 We usually respond within a few days.  
 Privacy: All scanning, blurring, watermarking, and sharing happens on-device.
