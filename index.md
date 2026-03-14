@@ -14,7 +14,7 @@ Your documents are **not uploaded, stored, or shared with external servers**.
 For questions, bug reports, feature requests, or support:
 
 **Email:** illustrious.planetplus@gmail.com  
-**GitHub Issues:** https://github.com/RafaelCarreres/secure-id-scanner/issues
+**GitHub Issues:** [Open an issue here] (https://github.com/RafaelCarreres/secure-id-scanner/issues)
 
 We typically respond within **2–3 business days**.
 
@@ -50,7 +50,7 @@ Open an issue with the label `feature-request` or contact us by email.
 
 ---
 
-**Privacy Policy:** [https://github.com/RafaelCarreres/secure-id-scanner/blob/main/privacy-policy.md]  
+**Privacy Policy:** [Link to privacy policy](https://github.com/RafaelCarreres/secure-id-scanner/blob/main/privacy-policy.md)  
 **App Store:** [Link to App Store listing]
 
 Your documents. Your device. Your privacy.
