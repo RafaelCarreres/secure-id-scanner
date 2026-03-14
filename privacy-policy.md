@@ -1,5 +1,5 @@
 ---
-layout: default 
+layout: pages 
 title: Privacy Policy
 permalink: /privacy-policy/
 ---
