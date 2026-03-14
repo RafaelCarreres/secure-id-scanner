@@ -13,8 +13,8 @@ Your documents are **not uploaded, stored, or shared with external servers**.
 
 For questions, bug reports, feature requests, or support:
 
-📧 **Email:** illustrious.planetplus@gmail.com  
-🐛 **GitHub Issues:** [Open an issue here](https://github.com/RafaelCarreres/secureidscanner/issues)
+**Email:** illustrious.planetplus@gmail.com  
+**GitHub Issues:** (https://github.com/RafaelCarreres/secureidscanner/issues)
 
 We typically respond within **2–3 business days**.
 
